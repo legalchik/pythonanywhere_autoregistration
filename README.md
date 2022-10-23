@@ -1,4 +1,4 @@
-# pythonanywhere auto registration
+# Auto registration pythonanywhere
 
 The script uses one-time emails and creates accounts on [pythonanywhere](https://pythonanywhere.com)
 
