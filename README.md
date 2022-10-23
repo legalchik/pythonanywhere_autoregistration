@@ -7,4 +7,7 @@ The script uses one-time emails and creates accounts on [pythonanywhere](https:/
 To use it, you just need to run _main_  
   `python3 main.py`  
 for windows:  
-  `python main.py`
+  `python main.py`  
+  
+  
+##### The current webdriver(geckodriver) can be downloaded here [link](https://github.com/mozilla/geckodriver/releases)
