@@ -20,3 +20,4 @@ The emails of the created accounts are saved to a file logins.txt, for example a
     ```python main.py```  
 
 ###### The current webdriver(geckodriver) can be downloaded here [link](https://github.com/mozilla/geckodriver/releases "click")
+
